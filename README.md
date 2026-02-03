@@ -23,3 +23,7 @@ An AI-powered astrology platform connecting users with the cosmos.
 This project is configured for **Vercel**.
 -   **SPA Routing**: `vercel.json` included to handle client-side routing.
 -   **Environment Variables**: Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` in Vercel settings.
+
+## Recent Updates
+-   **Simulation Mode**: AI and Chat features now work without backend keys for demonstration.
+-   **Fixed**: Blank page issue on deployment resolved via fallback keys.
