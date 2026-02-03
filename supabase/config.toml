@@ -1,0 +1,4 @@
+project_id = "lnmobztybapdfjhihhfn"
+
+[functions.astro-ai]
+verify_jwt = false
